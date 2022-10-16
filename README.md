@@ -23,12 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmins28&" alt="nazmins28" /></p>
 
-<br />
-🛠 Current Stats:
-
-| ![sufi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazminS28&show_icons=true&locale=en&theme=tokyonight) | ![Nazamin GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NazminS28&theme=tokyonight) |
-| :---: | :---: |
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NazminS28&show_icons=true&locale=en&theme=tokyonight" alt="NazminS28" /></p>
-<br /><br />
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=NazminS28&theme=github" height ="307"/>
