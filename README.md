@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nazamin Shaikh</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<img src="https://i.ibb.co/B3zyqX0/Nazmin-banner.jpg" alt="babel" width="1210px" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmins28&label=Profile%20views&color=0e75b6&style=flat" alt="nazmins28" /> </p>
+
+<img align="right" alt="coding image" width="45%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -10,6 +13,8 @@
 - 💬 Ask me about **Html, CSS, Javascript, React**
 
 - 📫 How to reach me **shaikhnazmin1328@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
