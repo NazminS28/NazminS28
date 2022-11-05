@@ -58,6 +58,7 @@
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align='center'>📊 My Github Stats</h2>
 <div style="display: flex; align'"center">
@@ -67,8 +68,8 @@
    <img width="450px" height="200px" alt="Nazamin Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmins28&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 <div>
+                                                   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   <h2 align='center'><b>🏆 Github Achievements</b></h2><br/>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
  <p align="center"> <a href="https://github.com/nazmins28"><img src="https://github-profile-trophy.vercel.app/?username=nazmins28&margin-w=4" alt="Nazmin" /></a> </p>
 </div>
                                                    
