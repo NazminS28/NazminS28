@@ -61,10 +61,10 @@
 
 <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align='center'>📊 My Github Stats</h2>
-<div style="display: flex; align'"center">
-    <img width="450px" height="200px" alt="Nazamin Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazmins28&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+<div style="display: flex; align:center; margin:auto">
+    <img width="400px" height="200px" alt="Nazamin Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazmins28&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
     <img width="400px" height="200px" alt="Nazamin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmins28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-   <img width="450px" height="200px" alt="Nazamin Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmins28&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+   <img  width="400px" height="200px" alt="Nazamin Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmins28&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 <div>
                                                    <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
