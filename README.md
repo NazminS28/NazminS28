@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmins28&label=Profile%20views&color=0e75b6&style=flat" alt="nazmins28" /> </p>
 
-<img align="right" alt="coding image" width="45%" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76117725eb09466df8a2245fcc11e918b1f101a94fec&rid=giphy.gif&ct=g" width="300px">
+<img align="right" alt="coding image" width="30%" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76117725eb09466df8a2245fcc11e918b1f101a94fec&rid=giphy.gif&ct=g" >
 
 
 - 🌱 I’m currently learning **Node.js**
