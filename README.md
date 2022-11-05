@@ -69,7 +69,7 @@
 </div>
 <div>
   <h2 align='center'><b>🏆 Github Achievements</b></h2><br/>
- [![trophy](https://github-profile-trophy.vercel.app/?nazmins28=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?nazmins28=ryo-ma)](https://github.com/nazmins28/github-profile-trophy)
 </div>
                                                    
  <div>
