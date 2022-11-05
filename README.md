@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nazmin-shaikh-83a725171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nazmin-shaikh-83a725171/" height="30" width="40" /></a><a href="https://instagram.com/nothing.but.naju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nazmin" height="30" width="40" /></a><a href="https://leetcode.com/NazminS28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sufi7867" height="30" width="40" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align='center'> :pencil: Technical Skills</h2>
 <div align='center' style="display: flex;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -48,7 +48,7 @@
    <img src="https://img.shields.io/badge/python-pink?style=for-the-badge&logo=next.js&logoColor=black" />
  
 </div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align='center'> :pencil: Tools</h2>
 <div align='center' style="display: flex;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -59,22 +59,22 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align='center'>📊 My Github Stats</h2>
 <div style="display: flex; align'"center">
-    <img width="450px" height="200px" alt="Nazamin Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazmins28&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-    <img width="300px" height="200px" alt="Nazamin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmins28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img width="400px" height="200px" alt="Nazamin Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazmins28&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img width="200px" height="200px" alt="Nazamin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmins28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </br>
-   <img width="450px" height="200px" alt="Nazamin Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmins28&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+   <img width="400px" height="200px" alt="Nazamin Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmins28&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
 <div>
-                                                   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+                                                   <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   <h2 align='center'><b>🏆 Github Achievements</b></h2><br/>
  <p align="center"> <a href="https://github.com/nazmins28"><img src="https://github-profile-trophy.vercel.app/?username=nazmins28&margin-w=4" alt="Nazmin" /></a> </p>
 </div>
                                                    
  <div>
-                    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+                    <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmins28&theme=github_dark" alt="Nazamin" align = "center"/></p>
 </div>
