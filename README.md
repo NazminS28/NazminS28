@@ -6,13 +6,17 @@
 <img align="right" alt="coding image" width="30%" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76117725eb09466df8a2245fcc11e918b1f101a94fec&rid=giphy.gif&ct=g" >
 
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NazminS28](https://github.com/NazminS28)
 
 - 💬 Ask me about **Html, CSS, Javascript, React**
 
 - 📫 How to reach me **shaikhnazmin1328@gmail.com**
+
+- 📄 Check [Resume](https://drive.google.com/file/d/19nohiQscevjXReQXHWW_dPxdGbfxLvFA/view?usp=sharing)
+
+- 📄 Know more about me and my work [Portfolio](https://NazminS28.github.io/)
 
 
 
