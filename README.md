@@ -22,7 +22,7 @@
 
 
 <h2 align='center'> :🔍: Connect with me</h2>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nazmin-shaikh-83a725171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nazmin-shaikh-83a725171/" height="30" width="40" /></a><a href="https://instagram.com/nothing.but.naju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nazmin" height="30" width="40" /></a><a href="https://leetcode.com/NazminS28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sufi7867" height="30" width="40" /></a>
 </p>
 
@@ -69,7 +69,7 @@
 </div>
 <div>
   <h2 align='center'><b>🏆 Github Achievements</b></h2><br/>
-  <p align="center"> <a href="https://github.com/Mdarifali912"><img src="https://github-profile-trophy.vercel.app/?username=Mdarifali912&margin-w=5&theme=radical" alt="Md Arif Ali" /></a> </p>
+ [![trophy](https://github-profile-trophy.vercel.app/?nazmins28=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
                                                    
  <div>
