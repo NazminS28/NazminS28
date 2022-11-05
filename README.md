@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/wN5nBMw/Picsart-22-10-18-23-24-08-528.jpg" alt="babel" width="1210px" height="250px" />
+<img src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif" alt="babel" width="1210px" height="250px" />
 <h2 align='center'>A focused Full Stack Web Developer, passionate about implementing technical knowledge in real time projects.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmins28&label=Profile%20views&color=0e75b6&style=flat" alt="nazmins28" /> </p>
