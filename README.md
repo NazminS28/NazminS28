@@ -49,7 +49,7 @@
  
 </div>
 <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h2 align='center'> :⚒: Tools</h2>
+<h2 align='center'> ⚒: Tools</h2>
 <div align='center' style="display: flex;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
