@@ -46,6 +46,8 @@
   <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-9400d3?style=for-the-badge&logo=bootstrap&logoColor=violet" />
   <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
+   <img src="https://img.shields.io/badge/python-pink?style=for-the-badge&logo=next.js&logoColor=black" />
+ 
 </div>
 
 
