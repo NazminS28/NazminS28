@@ -50,7 +50,22 @@
  
 </div>
 
+<h2 align='center'> :pencil: Tools</h2>
+<div align='center' style="display: flex;">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</div>
 
+<h2 align='center'>📊 My Github Stats</h2>
+
+<div style="display: flex;">
+    <img width="450px" height="200px" alt="Md Arif Ali Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazmins28&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img width="300px" height="200px" alt="MD ARIF ALI's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmins28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazmins28&show_icons=true&locale=en" alt="nazmins28" /></p>
 
