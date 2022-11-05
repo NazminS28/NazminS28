@@ -1,5 +1,6 @@
 <img src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif" alt="babel" width="1210px" height="250px" />
 <h2 align='center'>A focused Full Stack Web Developer, passionate about implementing technical knowledge in real time projects.</h2>
+![ban](https://user-images.githubusercontent.com/105915742/200138355-c7e17ecd-dc8a-40be-a9e0-cbc3557a3102.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmins28&label=Profile%20views&color=0e75b6&style=flat" alt="nazmins28" /> </p>
 
