@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/wN5nBMw/Picsart-22-10-18-23-24-08-528.jpg" alt="babel" width="1210px" />
+<img src="https://i.ibb.co/wN5nBMw/Picsart-22-10-18-23-24-08-528.jpg" alt="babel" width="1210px" height="100px" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmins28&label=Profile%20views&color=0e75b6&style=flat" alt="nazmins28" /> </p>
