@@ -21,7 +21,7 @@
 
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h2 align='center'> :🔍: Connect with me</h2>
+<h2 align='center'> 🔍: Connect with me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nazmin-shaikh-83a725171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nazmin-shaikh-83a725171/" height="30" width="40" /></a><a href="https://instagram.com/nothing.but.naju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nazmin" height="30" width="40" /></a><a href="https://leetcode.com/NazminS28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sufi7867" height="30" width="40" /></a>
 </p>
@@ -49,7 +49,7 @@
  
 </div>
 <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h2 align='center'> :pencil: Tools</h2>
+<h2 align='center'> :⚒: Tools</h2>
 <div align='center' style="display: flex;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
