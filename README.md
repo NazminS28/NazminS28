@@ -63,8 +63,10 @@
 <h2 align='center'>📊 My Github Stats</h2>
 
 <div style="display: flex;">
-    <img width="450px" height="200px" alt="Md Arif Ali Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazmins28&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-    <img width="300px" height="200px" alt="MD ARIF ALI's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmins28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img width="450px" height="200px" alt="Nazamin Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazmins28&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+    <img width="300px" height="200px" alt="Nazamin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmins28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  
+   <img width="450px" height="200px" alt="Nazamin Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmins28&" />
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazmins28&show_icons=true&locale=en" alt="nazmins28" /></p>
