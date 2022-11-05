@@ -68,7 +68,11 @@
   </br>
    <img width="450px" height="200px" alt="Nazamin Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmins28&&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </div>
-
+<div>
+  <h2 align='center'><b>🏆 Github Achievements</b></h2><br/>
+  <p align="center"> <a href="https://github.com/Mdarifali912"><img src="https://github-profile-trophy.vercel.app/?username=Mdarifali912&margin-w=5&theme=radical" alt="Md Arif Ali" /></a> </p>
+</div>
+                                                   
  <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmins28&theme=github_dark" alt="Nazamin" align = "center"/></p>
