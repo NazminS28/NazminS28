@@ -73,6 +73,7 @@
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazmins28&theme=github_dark" alt="Nazamin" align = "center"/></p>
 </div>
-                                                   
+                      
+![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
                                                    
 
