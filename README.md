@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/105915742/200138355-c7e17ecd-dc8a-40be-a9e0-cbc3557a3102.gif" alt="babel" width="1210px" height="250px" />
+<img src="https://user-images.githubusercontent.com/105915742/200315793-960ce749-3d2f-4f30-85d6-96e3116426f0.gif" alt="babel" width="1110px" height="200px" />
 <h2 align='center'>A focused Full Stack Web Developer, passionate about implementing technical knowledge in real time projects.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmins28&label=Profile%20views&color=0e75b6&style=flat" alt="nazmins28" /> </p>
