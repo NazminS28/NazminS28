@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shaikhnazmin1328@gmail.com**
 
-- 📄 Check [Resume](https://drive.google.com/file/d/19nohiQscevjXReQXHWW_dPxdGbfxLvFA/view?usp=sharing)
+- 📄 Check [Resume](https://drive.google.com/file/d/1eWriveKT4GH-5zMi99Gi1tZv9DdHJmCF/view?usp=sharing)
 
 - 📄 Know more about me and my work [Portfolio](https://NazminS28.github.io/)
 
