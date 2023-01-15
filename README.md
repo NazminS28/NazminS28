@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/105915742/200315793-960ce749-3d2f-4f30-85d6-96e3116426f0.gif" alt="babel" width="1110px" height="200px" />
-<h2 align='center'>A focused Full Stack Web Developer, passionate about implementing technical knowledge in real time projects.</h2>
+<h4 align='center'>I am a full stack developer with a passion for creating user-friendly and efficient web applications. I am motivated by the challenge of solving complex problems and the satisfaction of seeing my solutions come to life. My interests include staying up to date with the latest technologies and trends in the industry, as well as continuously learning and improving my skills. I am a team player and enjoy collaborating with others to build great products.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmins28&label=Profile%20views&color=0e75b6&style=flat" alt="nazmins28" /> </p>
 
